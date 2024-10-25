@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'tastebook'
           slot-name: 'Production'
-          package: ./dist
+          package: './dist/browse'
           
