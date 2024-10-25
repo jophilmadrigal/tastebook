@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/40692e59-cdf5-4d6f-888d-fa27cb190338/resourceGroups/tastebook/providers/Microsoft.Web/sites/tastebook",
+    "appService.deploySubpath": "dist\\tastebook\\browser"
+}
